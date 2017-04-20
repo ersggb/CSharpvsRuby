@@ -1,24 +1,31 @@
-# C# <img src="https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/C%23_Logo.png" width="25" height="25"> VS. Ruby <img src="https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/Ruby_Logo.png" width="25" height="25">
+## OO Language Comparison
 
+* Pick two object-oriented languages.
+* Form a team to work on the comparison.
+  * You can be a team of 1.
+  * Teams greater than 4 are usually not a good idea.
+* Using the comparison criteria provided, compare the two languages
+through documentation and code examples.
+* The documentation is to be written in markdown.
+* The documentation and code examples are to be in a
+GitHub public repository that the team uses.
+* The **home page** is to be the README.md for the repository.
+* Other mark down pages can be linked using relative links in markdown files.
+  * [Relative links in markdown files](https://github.com/blog/1395-relative-links-in-markup-files).
+  * Here is an example of a relative link to another md: [second.md](second.md)
+* The README.md is to include near the top:
+    * The two languages being compared.
+    * The names of the members of the team.
+* The URL for the GitHub repository for your team is to be submitted via an assignment on Canvas.
 
-### About C# and Ruby
+### Comparison Criteria
 
-[C# origin story]()
+* Language purpose/genesis
   * Why was the language created?
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
-  
-[Ruby origin story]()
-  * Why was the language created?
-  * What problems was the language trying to address?
-  * Is the language a reaction to a previous language or a replacement for another language?
-  
-[C# unique features]()
-
-[Ruby unique features]()
-
-### Language Comparisons
-
+* Unique features of the language
+  * Does the language have any particularly unique features?
 * Name spaces
   * How are name spaces implemented?
   * How are name spaces used?
