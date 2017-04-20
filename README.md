@@ -1,1 +1,1 @@
-# C# ![alt text](Assets/raw/master/C#_Logo.png "C#") VS. Ruby ![alt text](https://github.com/JChauncyChandler/CSharpvsRuby/Assets/raw/master/Ruby_Logo.png "Ruby")
+# C# ![alt text](https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/C%23_Logo.png "C#") VS. Ruby ![alt text](https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/Ruby_Logo.png "Ruby")
