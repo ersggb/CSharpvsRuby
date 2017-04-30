@@ -1,6 +1,8 @@
 ## C# Origin Story - Brief History of C#
 First Release: 2002
+
 Creator: Microsoft led by Anders Hejlsberg
+
 Latest Version: 7
 
 ### Why was the language created?
