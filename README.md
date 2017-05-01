@@ -8,64 +8,64 @@
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
   
-[Ruby origin story]()
+[Ruby origin story]() - Cameron
   * Why was the language created?
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
   
-[C# unique features]()
+[C# unique features]() - Cameron
 
-[Ruby unique features]()
+[Ruby unique features]() - Cameron
 
 ### Language Comparisons
 
-* Name spaces
+* Name spaces - Chris
   * How are name spaces implemented?
   * How are name spaces used?
-* Types
+* Types - Emma
     * What types does the language support?
     * Are both reference and value types supported?
     * Can new value types be created?
-* Classes
+* Classes - Jackson
   * Defining
   * Creating new instances
   * Constructing/initializing
   * Destructing/de-initializing
-* Instance reference name in data type (class)
+* Instance reference name in data type (class) - Cameron
   * this?  self?
-* Properties
+* Properties - Chris
   * Getters and setters...write your own or built in?
   * Backing variables?
   * Computed properties?
-* Interfaces / protocols
+* Interfaces / protocols - Emma
   * What does the language support?
   * What abilities does it have?
   * How is it used?
-* Inheritance / extension
-* Reflection
+* Inheritance / extension - Jackson
+* Reflection - Cameron
   * What reflection abilities are supported?
   * How is reflection used?
-* Memory management
+* Memory management - Chris
   * How is it handled?
   * How does it work?
   * Garbage collection?
   * Automatic reference counting?
-* Comparisons of references and values
+* Comparisons of references and values - Emma
   * How are values compared? (i.e. comparing two strings)
-* Null/nil references
+* Null/nil references - Jackson
   * Which does the language use? (null/nil/etc)
   * Does the language have features for handling null/nil references?
-* Errors and exception handling
-* Lambda expressions, closures, or functions as types
-* Implementation of listeners and event handlers
-* Singleton
+* Errors and exception handling - Chris
+* Lambda expressions, closures, or functions as types - Emma
+* Implementation of listeners and event handlers - Jackson
+* Singleton - Chris
   * How is a singleton implemented?
   * Can it be made thread-safe?
   * Can the singleton instance be lazily instantiated?
-* Procedural programming
+* Procedural programming - Emma
   * Does the language support procedural programming?
-* Functional programming
+* Functional programming - Jackson
   * Does the language support functional programming?
-* Multithreading
+* Multithreading - Chris
   * Threads or thread-like abilities
   * How is multitasking accomplished?
