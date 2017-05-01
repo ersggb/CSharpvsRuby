@@ -1,5 +1,10 @@
 # C# <img src="https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/C%23_Logo.png" width="25" height="25"> VS. Ruby <img src="https://github.com/JChauncyChandler/CSharpvsRuby/blob/master/Assets/raw/master/Ruby_Logo.png" width="25" height="25">
 
+## Group Members 
+#### Jackson Chandler
+#### Emma Schiermeier
+#### Cameron Warder
+#### Christopher Whetsel 
 
 ### About C# and Ruby
 
