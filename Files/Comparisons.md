@@ -1,6 +1,3 @@
-Comparisons of references and values - Emma In Progress 🍎
-How are values compared? (i.e. comparing two strings)
-
 C#
 To compare primitive datatypes, use ==
 .Equals is used for reference equality for reference types, and bitwise equality for value types, but for objects and strings.
