@@ -18,9 +18,9 @@
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
   
-[C# unique features]() - Cameron **_In Progress_** &#x1F34E;
+[C# unique features]() - Cameron **_Completed_** &#x1F34F;
 
-[Ruby unique features]() - Cameron **_In Progress_** &#x1F34E;
+[Ruby unique features]() - Cameron **_Completed_** &#x1F34F;
 
 ### Language Comparisons
 
