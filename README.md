@@ -42,7 +42,7 @@
   * Getters and setters...write your own or built in?
   * Backing variables?
   * Computed properties?
-* [Interfaces / protocols](Files/interfaces.md) - Emma **_In Progress_** &#x1F34E;
+* [Interfaces / protocols](Files/interfaces.md) - Emma **_Completed_** &#x1F34F;
   * What does the language support?
   * What abilities does it have?
   * How is it used?
@@ -61,13 +61,13 @@
   * Which does the language use? (null/nil/etc)
   * Does the language have features for handling null/nil references?
 * [Errors and exception handling](Files/errorsAndExceptions.md) - Chris **_Completed_** &#x1F34F;
-* Lambda expressions, closures, or functions as types - Emma **_In Progress_** &#x1F34E;
+* [Lambda expressions, closures, or functions as types](Files/lambdasAndSuch.md) - Emma **_Completed_** &#x1F34F;
 * Implementation of listeners and event handlers - Jackson **_Completed_** &#x1F34F;
 * [Singleton](Files/singleton.md) - Chris **_Completed_** &#x1F34F;
   * How is a singleton implemented?
   * Can it be made thread-safe?
   * Can the singleton instance be lazily instantiated?
-* Procedural programming - Emma **_In Progress_** &#x1F34E;
+* [Procedural programming](Files/procedural.md) - Emma **_Completed_** &#x1F34F;
   * Does the language support procedural programming?
 * [Functional programming](Files/FunctionalProgrammingComparison.md) - Jackson **_Completed_** &#x1F34F;
   * Does the language support functional programming?
