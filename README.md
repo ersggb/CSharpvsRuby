@@ -18,9 +18,9 @@
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
   
-[C# unique features]() - Cameron **_Completed_** &#x1F34F;
+[C# unique features](Files/C#UniqueFeatures.md) - Cameron **_Completed_** &#x1F34F;
 
-[Ruby unique features]() - Cameron **_Completed_** &#x1F34F;
+[Ruby unique features](Files/RubyUniqueFeatures.md) - Cameron **_Completed_** &#x1F34F;
 
 ### Language Comparisons
 
@@ -36,7 +36,7 @@
   * Creating new instances
   * Constructing/initializing
   * Destructing/de-initializing
-* Instance reference name in data type (class) - Cameron **_Completed_** &#x1F34F;
+* [Instance reference name in data type](Files/ReferenceToInstance.md) - Cameron **_Completed_** &#x1F34F;
   * this?  self?
 * [Properties](Files/properties.md) - Chris **_Completed_** &#x1F34F;
   * Getters and setters...write your own or built in?
@@ -47,7 +47,7 @@
   * What abilities does it have?
   * How is it used?
 * Inheritance / extension - Jackson **_Completed_** &#x1F34F;
-* [Reflection](Files/reflection.md) - Cameron **_Completed_** &#x1F34F;
+* [Reflection](Files/Reflection.md) - Cameron **_Completed_** &#x1F34F;
   * What reflection abilities are supported?
   * How is reflection used?
 * [Memory management](Files/memoryManagement.md) - Chris **_Completed_** &#x1F34F;
