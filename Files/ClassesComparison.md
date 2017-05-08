@@ -11,7 +11,7 @@ using System;
 namespace ProgrammingGuide
 {
   // Class definition.
-    public class CustomClass
+    public class DogClass
     {
       // Class members.
       // Class Methods
@@ -34,6 +34,22 @@ end
 ```
 
 #### Creating new instances
+
+  #### C#
+  
+  ```c#
+  
+  DogClass dog = new DogClass();
+  
+  ```
+
+  #### Ruby
+  
+  ```ruby
+  
+  doggo = Dog. new
+  
+  ```
 
 #### Constructing/initializing
 
