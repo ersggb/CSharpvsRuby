@@ -62,7 +62,7 @@
   * Does the language have features for handling null/nil references?
 * [Errors and exception handling](Files/errorsAndExceptions.md) - Chris **_Completed_** &#x1F34F;
 * Lambda expressions, closures, or functions as types - Emma **_In Progress_** &#x1F34E;
-* Implementation of listeners and event handlers - Jackson **_In Progress_** &#x1F34E;
+* Implementation of listeners and event handlers - Jackson **_Completed_** &#x1F34F;
 * [Singleton](Files/singleton.md) - Chris **_Completed_** &#x1F34F;
   * How is a singleton implemented?
   * Can it be made thread-safe?
