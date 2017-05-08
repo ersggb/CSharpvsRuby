@@ -42,7 +42,7 @@
   * Getters and setters...write your own or built in?
   * Backing variables?
   * Computed properties?
-* [Interfaces / protocols] - Emma **_In Progress_** &#x1F34E;
+* [Interfaces / protocols](Files/interfaces.md) - Emma **_In Progress_** &#x1F34E;
   * What does the language support?
   * What abilities does it have?
   * How is it used?
