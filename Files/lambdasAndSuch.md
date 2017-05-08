@@ -1,4 +1,5 @@
 C#
+
 Lambdas explained
 > C# uses lambda expressions to create delegates or expression tree types.
 > To create a lambda expression, you specify input parameters (if any) on the left side of the lambda operator =>, and you put the expression or statement block on the other side.
@@ -47,6 +48,7 @@ public static Func<int,int> GetAFunc()
 }
 
 Ruby
+
 In Ruby, lambdas are closures.
 
 > Lambdas enforce the correct number of arguments
