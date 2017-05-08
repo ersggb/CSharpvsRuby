@@ -42,7 +42,7 @@
   * Getters and setters...write your own or built in?
   * Backing variables?
   * Computed properties?
-* Interfaces / protocols - Emma **_In Progress_** &#x1F34E;
+* [Interfaces / protocols] - Emma **_In Progress_** &#x1F34E;
   * What does the language support?
   * What abilities does it have?
   * How is it used?
@@ -55,7 +55,7 @@
   * How does it work?
   * Garbage collection?
   * Automatic reference counting?
-* Comparisons of references and values - Emma **_In Progress_** &#x1F34E;
+* [Comparisons of references and values](Files/Comparisons.md) - Emma **_Completed_** &#x1F34F;
   * How are values compared? (i.e. comparing two strings)
 * Null/nil references - Jackson **_Completed_** &#x1F34F;
   * Which does the language use? (null/nil/etc)
