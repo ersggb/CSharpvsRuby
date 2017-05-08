@@ -15,7 +15,7 @@
     }
   }
   
-  //extended class
+  //child class
   public class CorgiClass : DogClass
   {
     public bool derp, sploot;
@@ -34,12 +34,14 @@
   
   ```ruby
   
+    #parent class
     class Dog  
       def bark  
         puts "bork"  
       end  
     end  
-      
+     
+    #child class
     class Corgi < Dog  
       def derp  
         puts "derp"  
