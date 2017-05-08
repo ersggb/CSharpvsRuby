@@ -24,10 +24,7 @@
 
 ### Language Comparisons
 
-* Name spaces - Chris 
-```html
-<p color="red">In Progress</p>
-```
+* Name spaces - Chris &#x1F34E; In Progress
   * How are name spaces implemented?
   * How are name spaces used?
 * Types - Emma
