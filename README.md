@@ -36,7 +36,7 @@
   * Creating new instances
   * Constructing/initializing
   * Destructing/de-initializing
-* Instance reference name in data type (class) - Cameron **_In Progress_** &#x1F34E;
+* Instance reference name in data type (class) - Cameron **_Completed_** &#x1F34F;
   * this?  self?
 * [Properties](Files/properties.md) - Chris **_Completed_** &#x1F34F;
   * Getters and setters...write your own or built in?
@@ -47,7 +47,7 @@
   * What abilities does it have?
   * How is it used?
 * Inheritance / extension - Jackson **_Completed_** &#x1F34F;
-* Reflection - Cameron **_In Progress_** &#x1F34E;
+* Reflection - Cameron **_Completed_** &#x1F34F;
   * What reflection abilities are supported?
   * How is reflection used?
 * [Memory management](Files/memoryManagement.md) - Chris **_Completed_** &#x1F34F;
