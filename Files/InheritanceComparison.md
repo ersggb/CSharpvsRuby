@@ -31,3 +31,23 @@
   
   ```
   #### Ruby
+  
+  ```ruby
+  
+    class Dog  
+      def bark  
+        puts "bork"  
+      end  
+    end  
+      
+    class Corgi < Dog  
+      def derp  
+        puts "derp"  
+      end  
+    end  
+      
+    bradley = Corgi.new  
+    bradley.bark  
+    bradley.derp  
+  
+  ```
