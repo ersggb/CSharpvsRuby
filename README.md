@@ -27,7 +27,7 @@
 * [Name spaces](Files/namespaces.md) - Chris **_Completed_** &#x1F34F;
   * How are name spaces implemented?
   * How are name spaces used?
-* Types - Emma **_In Progress_** &#x1F34E;
+* [Types](Files/dataTypes.md) - Emma **_Completed_** &#x1F34F;
     * What types does the language support?
     * Are both reference and value types supported?
     * Can new value types be created?
