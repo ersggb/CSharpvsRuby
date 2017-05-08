@@ -13,7 +13,7 @@
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
   
-[Ruby origin story]() - Cameron **_In Progress_** &#x1F34E;
+[Ruby origin story]() - Cameron **_Completed_** &#x1F34F;
   * Why was the language created?
   * What problems was the language trying to address?
   * Is the language a reaction to a previous language or a replacement for another language?
