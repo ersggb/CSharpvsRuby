@@ -57,7 +57,7 @@
   * Automatic reference counting?
 * [Comparisons of references and values](Files/Comparisons.md) - Emma **_Completed_** &#x1F34F;
   * How are values compared? (i.e. comparing two strings)
-* [Null/nil references](Files/NullComparisons.md) - Jackson **_Completed_** &#x1F34F;
+* [Null/nil references](Files/NullComparison.md) - Jackson **_Completed_** &#x1F34F;
   * Which does the language use? (null/nil/etc)
   * Does the language have features for handling null/nil references?
 * [Errors and exception handling](Files/errorsAndExceptions.md) - Chris **_Completed_** &#x1F34F;
