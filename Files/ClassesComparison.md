@@ -13,7 +13,7 @@ namespace ProgrammingGuide
   // Class definition.
     public class DogClass
     {
-      // Class members.
+      // Class Members
       // Class Methods
     }
 }
@@ -47,10 +47,61 @@ end
   
   ```ruby
   
-  doggo = Dog. new
+  doggo = Dog.new
   
   ```
 
 #### Constructing/initializing
 
+  #### C#
+  
+  ```c#
+  
+  class DogClass
+  {
+    public string name, breed;
+    
+    //constructor
+    public DogClass()
+    {
+      name = "Bradley";
+      Breed = "Corgi";
+    }
+   }
+  
+  ```
+  
+  #### Ruby
+  
+  ```ruby
+  
+  # dog.rb  
+  # define class Dog  
+  class Dog 
+    #Constructor
+    def initialize(name, breed)
+      @dog_name = name
+      @dog_breed - breed
+    end
+  end  
+  
+  # Create Objects
+  doggo = Dog.new("Badley", "Corgi")
+  
+  ```
+ 
 #### Destructing/de-initializing
+
+  #### C#
+  
+  ```c#
+  
+  
+  ```
+  
+  #### Ruby
+  
+  ```ruby
+  
+  
+  ```
