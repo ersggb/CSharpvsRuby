@@ -24,7 +24,10 @@
 
 ### Language Comparisons
 
-* Name spaces - Chris ```html <p color="red">In Progress</p>```
+* Name spaces - Chris 
+```html
+<p color="red">In Progress</p>
+```
   * How are name spaces implemented?
   * How are name spaces used?
 * Types - Emma
