@@ -4,8 +4,8 @@
   ##### C#
     > In C# a class is defined by providing the acess modifier (public, private, protected, static, internal, or protected) internal), the word "class" and then the name of the class. Example below.
     
-    
-    ` using System;
+    ```
+    using System;
 
       namespace ProgrammingGuide
       {
@@ -14,7 +14,8 @@
          {
             // Class members.
             // Class Methods
-      }`
+      }
+      ```
 #### Creating new instances
 
 #### Constructing/initializing
