@@ -24,7 +24,7 @@
 
 ### Language Comparisons
 
-* Name spaces - Chris **_In Progress_** &#x1F34E; 
+* [Name spaces](Files/namespaces.md) - Chris **_Completed_** &#x1F34F;
   * How are name spaces implemented?
   * How are name spaces used?
 * Types - Emma **_In Progress_** &#x1F34E;
@@ -38,7 +38,7 @@
   * Destructing/de-initializing
 * Instance reference name in data type (class) - Cameron **_In Progress_** &#x1F34E;
   * this?  self?
-* Properties - Chris **_In Progress_** &#x1F34E;
+* [Properties](Files/properties.md) - Chris **_Completed_** &#x1F34F;
   * Getters and setters...write your own or built in?
   * Backing variables?
   * Computed properties?
@@ -50,7 +50,7 @@
 * Reflection - Cameron **_In Progress_** &#x1F34E;
   * What reflection abilities are supported?
   * How is reflection used?
-* Memory management - Chris **_In Progress_** &#x1F34E;
+* [Memory management](Files/memoryManagement.md) - Chris **_Completed_** &#x1F34F;
   * How is it handled?
   * How does it work?
   * Garbage collection?
@@ -60,10 +60,10 @@
 * Null/nil references - Jackson **_Completed_** &#x1F34F;
   * Which does the language use? (null/nil/etc)
   * Does the language have features for handling null/nil references?
-* Errors and exception handling - Chris **_In Progress_** &#x1F34E;
+* [Errors and exception handling](Files/errorsAndExceptions.md) - Chris **_Completed_** &#x1F34F;
 * Lambda expressions, closures, or functions as types - Emma **_In Progress_** &#x1F34E;
 * Implementation of listeners and event handlers - Jackson **_In Progress_** &#x1F34E;
-* Singleton - Chris **_In Progress_** &#x1F34E;
+* [Singleton](Files/singleton.md) - Chris **_Completed_** &#x1F34F;
   * How is a singleton implemented?
   * Can it be made thread-safe?
   * Can the singleton instance be lazily instantiated?
@@ -71,6 +71,6 @@
   * Does the language support procedural programming?
 * Functional programming - Jackson **_In Progress_** &#x1F34E;
   * Does the language support functional programming?
-* Multithreading - Chris **_In Progress_** &#x1F34E;
+* [Multithreading](Files/threading.md) - Chris **_Completed_** &#x1F34F;
   * Threads or thread-like abilities
   * How is multitasking accomplished?
