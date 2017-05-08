@@ -94,14 +94,8 @@ end
 
   #### C#
   
-  ```c#
-  
-  
-  ```
+  > C# has a garbage collection feature similar to java, so an instantiated class cannot be destroyed by the developer. The garabage collector will automatically destroy the object when there are nomore references to it in memory.
   
   #### Ruby
   
-  ```ruby
-  
-  
-  ```
+  > Ruby has a garbage collection feature similar to java, so an instantiated class cannot be destroyed by the developer. The garabage collector will automatically destroy the object when there are nomore references to it in memory.
