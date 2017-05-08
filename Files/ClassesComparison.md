@@ -15,6 +15,7 @@ namespace ProgrammingGuide
       // Class members.
       // Class Methods
     }
+}
 ```
 
 #### Creating new instances
