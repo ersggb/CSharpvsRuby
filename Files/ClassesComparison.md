@@ -19,6 +19,20 @@ namespace ProgrammingGuide
 }
 ~~~~
 
+  #### Ruby
+  > In Ruby a class is defined by the word "class" and followed by the class name, then "end" after all the methods are written. Example below.
+  
+```ruby
+
+# dog.rb  
+# define class Dog  
+class Dog  
+  # Class Variables
+  # Class Methods
+end  
+
+```
+
 #### Creating new instances
 
 #### Constructing/initializing
