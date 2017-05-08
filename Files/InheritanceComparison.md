@@ -10,7 +10,7 @@
     
     public DogClass()
     {
-      name = "Bradley;
+      name = "Bradley";
       breed = "Corgi";
     }
   }
@@ -29,4 +29,5 @@
     }
   }
   
+  ```
   #### Ruby
